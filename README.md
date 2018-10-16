@@ -1,21 +1,21 @@
 # Nybo.omap
 
-Free & open-source orienteering map of Nybo, Grövelsjön (Sweden)
+**Free & open-source orienteering map of Nybo, Grövelsjön (Sweden)**
 
-Mapper: *Sven Lundbäck*
+Mapper(s):
 
-- http://o-resa.se/
+- *Sven Lundbäck* ([http://o-resa.se](http://o-resa.se))
 
 ### Kickstarter campaign
 
-This map is result of campaign on Kickstarter platform started on Jul 1 2017 and succesfuly ended on Jul 31 2017 (30 days)
-
-- https://www.kickstarter.com/projects/882245428/open-free-orienteering-map-nybo-grovelsjon
-- ([archived copy]())
+This map is result of campaign on «Kickstarter» platform started on Jul 1 2017 and succesfuly ended on Jul 31 2017.
 
 > *“Draw an orienteering map on fantastic area in Dalecarlian mountains Sweden, to publish as open orienteering map free to download.”*
 >
-> -- ***Sven Lundbäck***
+> — ***Sven Lundbäck***
+
+- [Campaign page](https://www.kickstarter.com/projects/882245428/open-free-orienteering-map-nybo-grovelsjon) | ([archived copy](http://web.archive.org/web/20181016225622/https://www.kickstarter.com/projects/882245428/open-free-orienteering-map-nybo-grovelsjon))
+- [Campaign updates](https://www.kickstarter.com/projects/882245428/open-free-orienteering-map-nybo-grovelsjon/updates) | ([archived copy](http://web.archive.org/web/20181016231417/https://www.kickstarter.com/projects/882245428/open-free-orienteering-map-nybo-grovelsjon/updates))
 
 Original campaign description:
 
@@ -56,7 +56,7 @@ There was few achivements for pledgers:
 > 
 > Limited 3 backers
 
-On August 2, 2018 "Nybo" orienteering map released as opensource:
+On August 2, 2018 "Nybo" orienteering map [released](http://web.archive.org/web/20180809190658/http://o-resa.se/) as free & open-source:
 
 > **2018-08-02 Öppen orienteringskarta Nybo, Grövelsjön**
 > 
